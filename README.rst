@@ -13,6 +13,11 @@
 
 一瓶 400毫升 的 `Soylent Drink` 可以保证你五个小时左右的能量需求(饮用方式为持续性的摄入，并非一次引用完毕)。
 
+饮用日志
+--------
+
+浏览: `Records <https://github.com/LuoZijun/isoylent/tree/master/records>`_
+
 
 参考
 -------
